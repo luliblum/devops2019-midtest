@@ -25,6 +25,7 @@ DIR=$2
 #checking if the path_dir exists
 if [[ -d $DIR ]]
 	then
+		clear
   		echo "The string '$word' find in this files:"
   		echo "-----------------------------------"
 #recursivly search of word in files"
