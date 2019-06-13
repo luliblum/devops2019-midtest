@@ -1,9 +1,4 @@
 #!/bin/bash
-#echo "Start!"
-
-#while read p; do
-#  echo "$p"
-#done <text.txt
 
 #check args
 
